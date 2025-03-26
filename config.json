@@ -1,0 +1,15 @@
+{
+  "note":{
+    "note": "You should input the system variable's name but not key itself."
+  },
+  "openai": {
+    "api_key": "GPT_API_KEY"
+  },
+  "anthropic": {
+    "api_key": "CLAUDE_API_KEY"
+  },
+  "deepseek": {
+    "api_key": "DS_API",
+    "base_url": "https://api.deepseek.com"
+  }
+}
