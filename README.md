@@ -30,17 +30,7 @@ The program demonstrates how different AI personas approach risk management, str
 - Python 3.8 or higher
 
 ### Dependencies
-Create a `requirements.txt` file with the following content:
-
-```
-openai>=1.0.0
-anthropic>=0.5.0
-colorama>=0.4.4
-requests>=2.28.0
-typing-extensions>=4.0.0
-```
-
-Then install the dependencies using:
+Install the dependencies using:
 
 ```
 pip install -r requirements.txt
